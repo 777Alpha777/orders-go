@@ -1,11 +1,11 @@
-# Binaries
-/bin/
-orders-go
-orders-go.exe
-migrate
-migrate.exe
-bench
-bench.exe
+# Binaries built in the repository root
+/orders-go
+/orders-go.exe
+/migrate
+/migrate.exe
+/bench
+/bench.exe
+/api
 
 # Test and coverage output
 *.test
