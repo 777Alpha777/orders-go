@@ -1,0 +1,23 @@
+# Binaries
+/bin/
+orders-go
+orders-go.exe
+migrate
+migrate.exe
+bench
+bench.exe
+
+# Test and coverage output
+*.test
+*.out
+coverage.html
+
+# Local environment
+.env
+.env.local
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
